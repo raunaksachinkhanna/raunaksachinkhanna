@@ -18,4 +18,18 @@ Outside work, I'm deeply interested in math and physics. Right now I'm learning 
 
 ### GitHub stats
 
-![Raunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=raunaksachinkhanna&show_icons=true&theme=default&hide_title=true&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=raunaksachinkhanna&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117">
+  <img align="left" width="49%" alt="Raunak's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=raunaksachinkhanna&show_icons=true&theme=default&hide_border=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raunaksachinkhanna&layout=compact&theme=dark&hide_border=true&bg_color=0D1117">
+  <img align="left" width="49%" alt="Raunak's most-used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunaksachinkhanna&layout=compact&theme=default&hide_border=true">
+</picture>
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=raunaksachinkhanna&theme=dark&hide_border=true&background=0D1117">
+  <img alt="Raunak's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=raunaksachinkhanna&theme=default&hide_border=true">
+</picture>
