@@ -5,6 +5,21 @@ Associate AI Engineer @ 1291 Group · CS grad, UBC Okanagan
 Outside work, I'm deeply interested in math and physics. Right now I'm learning analytic number theory, especially sieve methods and the parity problem behind the twin prime conjecture, and building small computational experiments as I go.
 
 
+### 🎨 Art in Motion
+
+A side project where famous art and Indian landmarks come alive, drawn entirely in code with no images or footage. Vibe coded with Claude Code.
+
+<table>
+  <tr>
+    <td align="center"><a href="https://raunaksachinkhanna.github.io/art-in-motion/#india-gate"><img src="assets/india-gate.gif" width="250" alt="India Gate animated from golden hour into night, glowing in the tricolour"></a><br><sub><b>India Gate</b></sub></td>
+    <td align="center"><a href="https://raunaksachinkhanna.github.io/art-in-motion/#taj-mahal"><img src="assets/taj-mahal.gif" width="250" alt="Taj Mahal through a day and night, reflected in the pool"></a><br><sub><b>Taj Mahal</b></sub></td>
+    <td align="center"><a href="https://raunaksachinkhanna.github.io/art-in-motion/#starry-night"><img src="assets/starry-night.gif" width="250" alt="The Starry Night with swirling brush strokes"></a><br><sub><b>The Starry Night</b></sub></td>
+  </tr>
+</table>
+
+**[▶ See it live](https://raunaksachinkhanna.github.io/art-in-motion/)** · [source](https://github.com/raunaksachinkhanna/art-in-motion)
+
+
 ### Tech I work with
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
